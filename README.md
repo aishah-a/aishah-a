@@ -2,8 +2,10 @@
 
 ☁️ Aspiring Software Engineer<br>
 👩‍💻 Computer Science student at the University of Oslo, Norway<br>
-🧠 BSc in Neuroscience <br>
-🌱 Currently learning web development through [The Odin Project](https://www.theodinproject.com/)
+🧠 BSc in Neuroscience<br>
+🌱 Currently learning web development through [The Odin Project](https://www.theodinproject.com/)<br>
+🌍 From the UK 🇬🇧<br>
+💬 Fluent in Norwegian 🇳🇴 & learning Japanese 🇯🇵
 
 ![Static Badge](https://img.shields.io/badge/student-CA2E55?style=for-the-badge)
 ![The Odin Project](https://img.shields.io/badge/the_odin_project-%23A9792B.svg?style=for-the-badge&logo=theodinproject&logoColor=white)
