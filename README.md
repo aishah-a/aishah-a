@@ -1,10 +1,10 @@
 # 🫧 Hi, I'm Aishah!
 
 ☁️ Aspiring Software Engineer<br>
-👩‍💻 Computer Science student at the University of Oslo, Norway<br>
-🧠 BSc in Neuroscience<br>
+👩‍💻 **Computer Science student** at the University of Oslo, Norway<br>
+🧠 BSc in Neuroscience<br><br>
 🌱 Currently learning web development through [The Odin Project](https://www.theodinproject.com/)<br>
-🌍 From the UK 🇬🇧<br>
+🌍 From the UK 🇬🇧 <br>
 💬 Fluent in Norwegian 🇳🇴 & learning Japanese 🇯🇵
 
 ![Static Badge](https://img.shields.io/badge/student-CA2E55?style=for-the-badge)
